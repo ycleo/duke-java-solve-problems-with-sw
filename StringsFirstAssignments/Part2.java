@@ -16,7 +16,7 @@ public class Part2 {
             start += str1.length();
         }
         String nextStr2 = str2.substring(start);
-        return nextStr2.contains(str1);
+        return nextStr2.contains(str1);     
     }
     
     public String lastPart (String str1, String str2) {

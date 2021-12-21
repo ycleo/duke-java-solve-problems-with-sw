@@ -28,8 +28,9 @@ public class Part1 {
         String s2 = ""; 
         String s3 = "ATGag";
         String s4 = "gcataa";
+        String s5 = "AAATGCCCTAACTAGATTAAGAAACC";
         
-        String gene = findSimpleGene(s1);
+        String gene = findSimpleGene(s5);
         System.out.println("Gene: " + gene);
     }
 }
