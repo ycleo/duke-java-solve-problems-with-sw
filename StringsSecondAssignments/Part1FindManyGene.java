@@ -2,8 +2,8 @@
 /**
  * Write a description of Part1FindManyGene here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author ycleo
+ * @date 2021-12-22
  */
 public class Part1FindManyGene {
     
